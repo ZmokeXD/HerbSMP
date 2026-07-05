@@ -1,2 +1,2 @@
 # HerbSMP
-Minecraft Plugin about growing and selling herbs to level up for boosts to make more money off selling herbs.
+A Minecraft 26.1.2 Plugin made for the server Zmoke SMP
